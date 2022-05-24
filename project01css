@@ -1,0 +1,116 @@
+### Hi there 👋
+
+<!--
+**davifreitasdev88/davifreitasdev88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+*{
+    margin:0px;
+    padding: 0px;
+}
+html, body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+header nav .container a{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 20px;
+    font-size:30px;
+    font-weight: bolder;
+    color:#fff;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+header nav{
+    background-color:brown;
+    height: 90px;
+}
+.menu ul li{
+    display: inline;
+    margin:10px;
+    
+}
+.menu ul li a{
+    font-size:20px;
+    font-weight: bold;
+    color:#fff;
+    text-decoration: none;
+}
+img{
+    width:100px;
+}
+.banner{
+    background-image:url('city.jpg');
+    background-size:cover;
+    background-position:bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height:500px;
+    margin-bottom:20px;
+}
+.banner #formBase{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner #formBase input{
+    width:500px;
+    border-radius:10px;
+    border:none;
+    height:40px;
+    padding: 20px;
+    margin-top:70px;
+    text-align: center;
+
+}
+main{   
+    padding:20px 0px;
+    background-color: rgba(22, 150, 193, 0.922);
+}
+.main .frente{
+    display:flex;
+    flex-direction:column;
+}
+.artigos{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom:20px;
+    width: 400px;
+    height: 300px;
+}
+.artigos h2{
+    font-weight: bold;
+    margin:10px;
+    color:#fff;
+}
+.artigos img{
+    width:350px;
+    border-radius:10px;
+    transition: 0.5s ease;
+}
+.artigos img:hover{
+    transform:scale(1.2,1.2);
+    cursor:pointer;
+    opacity: 0.8;
+}
+.artigos button{
+    width:120px;
+    height:60px;
+    border-radius:5px;
+    border:none;
+    background-color:#18181B;
+    color:#fff;
+    margin-top:10px;
+    font-weight: bold;
+    cursor:pointer;
+    transition: all 0.5s ease;
+}
+.artigos button:hover{
+    background-color:#999;
+    text-transform:uppercase;
+}
+.container{
+    width:60vh;
+    margin:0 auto;
+}  
